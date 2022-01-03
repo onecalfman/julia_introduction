@@ -33,7 +33,7 @@ Note, that the VSCode julia plugin uses a custom kernel which does not provide m
 ## Installation
 
 ### Julia
-Julia can be obtained at the [julia websites download page](https://julialang.org/downloads/). It is of course available on pretty much any system with a package manager. On windows julia needs to be added to PATH manually if its installed with winget.
+The julia installer can be obtained at the [julia websites download page](https://julialang.org/downloads/) for all major operating systems and FreeBSD. It is of course available on pretty much any system with a package manager. On windows julia needs to be added to PATH manually if its installed with winget.
 I wrote my code in julia 1.6.3 and 1.7, so this is the minimum version that should be installed. Afaik this is only a concern on debian based linux distros.
 
 ### Jupyter Notebook / JupyterLab
