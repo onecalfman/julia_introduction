@@ -34,7 +34,7 @@ Note, that the VSCode julia plugin uses a custom kernel which does not provide m
 
 ### Julia
 Julia can be obtained at the [julia websites download page](https://julialang.org/downloads/). It is of course available on pretty much any system with a package manager. On windows julia needs to be added to PATH manually if its installed with winget.
-I wrote my code in julia 1.6.3 and 1.7, so this is the minimum version that should be installed. Afaik this is only a concerne on debian base linux distros.
+I wrote my code in julia 1.6.3 and 1.7, so this is the minimum version that should be installed. Afaik this is only a concerne on debian based linux distros.
 
 ### Jupyter Notebook / JupyterLab
 A short word on the differences between the two. Jupyter Notebook is the older front end for the jupyter framework. JupyterLab has more features and most importantly for development alows to show the notebook in multiple views or different notebooks at a time. Jupyter Notebook can only show one notebook at one place, but is in my experience more performant.
