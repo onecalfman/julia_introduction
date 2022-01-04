@@ -51,9 +51,9 @@ If you already have python with pip or conda installed i would advice to use tha
 Just follow the [install guide provided by the jupyter team](https://jupyter.org/install).
 
 ## Links and Resources
-In the julia_introduction.ipynb notebook you can find explanations of important julia concepts and functions.
-The pbm.ipynb notebook is an example of an explorative session.
-In the examples.ipynb notebook you can find usefull functions and snippets.
+In the [julia_introduction.ipynb](https://github.com/onecalfman/julia_introduction/blob/main/julia_intro.ipynb) notebook you can find explanations of important julia concepts and functions.
+The [pbm.ipynb](https://github.com/onecalfman/julia_introduction/blob/main/pbm.ipynb) notebook is an example of an explorative session.
+In the [examples.ipynb](https://github.com/onecalfman/julia_introduction/blob/main/examples.ipynb) notebook you can find usefull functions and snippets.
 
 ### Getting started
 
