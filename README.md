@@ -51,6 +51,12 @@ If you already have python with pip or conda installed i would advice to use tha
 Just follow the [install guide provided by the jupyter team](https://jupyter.org/install).
 
 ## Links and Resources
+In the julia_introduction.ipynb notebook you can find explanations of important julia concepts and functions.
+The pbm.ipynb notebook is an example of an explorative session.
+In the examples.ipynb notebook you can find usefull functions and snippets.
+
+### Getting started
+
 - [Website](https://julialang.org/)
 - [YouTube Channel](https://www.youtube.com/c/TheJuliaLanguage)
 - [Forum](https://discourse.julialang.org/)
