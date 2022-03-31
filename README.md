@@ -9,7 +9,7 @@ But first I want to give a broad overview about the language the tools used and 
 
 ### Performance
 
-The reasons why I chose julia over MATLAB were the latter one's slow performance and limited feature set, when it comes to numerical solutions to differential equation systems. Whereas in Matlab an average simulation run passed the 20 min mark, I could complete the same simulation in julia in about 3 seconds, which is a 400x increase in speed. This extreme performance increase is however not reached across the board.
+The reasons why I chose julia over MATLAB were the latter one's slow performance and limited feature set, when it comes to numerical solutions to differential equation systems. Whereas in Matlab an average simulation run for my particular usecase passed the 20 min mark, I could complete the same simulation in julia in about 3 seconds, which is a 400x increase in speed. This extreme performance increase is however not reached across the board.
 
 ![[Performance comparison with other languages](https://julialang.org/benchmarks)](https://julialang.org/assets/benchmarks/benchmarks.svg)
 But as you can see in the above graphic, the performance is quite solid, especially compared to other high level languages like Python or MATLAB.
@@ -28,7 +28,7 @@ JupyterLab or Jupyter Notebook provide an interactive notebook which can run cod
 Examples to run in the browser can be found at the [jupyter website](https://jupyter.org/). Most major languages can be used with jupyter, for example Julia, Python, MATLAB, Java Rust, Haskell, JavaScript...
 
 Alternatively julia code and jupyter notebooks can be run in VSCode.
-Note, that the VSCode julia plugin uses a custom kernel which does not provide multithreading at the moment.
+The vs code version of jupyter uses a custom kernel but has become a viable alternative in recent month.
 
 ## Installation
 
@@ -52,8 +52,8 @@ Just follow the [install guide provided by the jupyter team](https://jupyter.org
 
 ## Links and Resources
 In the [julia_introduction.ipynb](https://github.com/onecalfman/julia_introduction/blob/main/julia_intro.ipynb) notebook you can find explanations of important julia concepts and functions.
-The [pbm.ipynb](https://github.com/onecalfman/julia_introduction/blob/main/pbm.ipynb) notebook is an example of an explorative session.
-In the [examples.ipynb](https://github.com/onecalfman/julia_introduction/blob/main/examples.ipynb) notebook you can find usefull functions and snippets.
+The [pbm.ipynb](https://github.com/onecalfman/julia_introduction/blob/main/pbm.ipynb) notebook is an example of an exploration session.
+In the [examples.ipynb](https://github.com/onecalfman/julia_introduction/blob/main/examples.ipynb) notebook you can find useful functions and snippets.
 
 ### Getting started
 
