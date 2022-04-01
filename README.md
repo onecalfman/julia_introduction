@@ -27,8 +27,8 @@ My simulations and interactive sessions were done in JupyterLab.
 JupyterLab or Jupyter Notebook provide an interactive notebook which can run code, but also incorporate text, images and general media or web elements.
 Examples to run in the browser can be found at the [jupyter website](https://jupyter.org/). Most major languages can be used with jupyter, for example Julia, Python, MATLAB, Java Rust, Haskell, JavaScript...
 
-Alternatively julia code and jupyter notebooks can be run in VSCode.
-The vs code version of jupyter uses a custom kernel but has become a viable alternative in recent month.
+Alternatively jupyter notebooks with julia code can be run in VSCode.
+There is a julia and jupyter-notebook extension.
 
 ## Installation
 
@@ -45,7 +45,7 @@ Julia can install Jupyter Notebook through its own package manager.
 Hit the "]" key, and you will enter the package mode.
 Simply type "add IJulia" and press enter.
 After the package installation which can take a few minutes, you can start Jupyter notebook by running the "notebook()" command and JupyterLab with "jupyterlab()". On the first run of this commands julia will install miniconda and add jupyter to the system through it, if no jupyter installation is found.
-If you already have python with pip or conda installed i would advice to use that.
+If you already have python with pip or conda installed, i would advice to use that.
 
 #### Installation via python
 Just follow the [install guide provided by the jupyter team](https://jupyter.org/install).
